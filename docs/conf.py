@@ -18,8 +18,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'django_cityloc_pkg_toddpy'
-copyright = '2021, Me'
-author = 'Me'
+copyright = '2021, toddpy'
+author = 'toddpy'
 
 
 # -- General configuration ---------------------------------------------------
