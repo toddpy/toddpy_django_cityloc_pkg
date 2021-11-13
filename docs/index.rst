@@ -1,13 +1,14 @@
-.. django_cityloc_pkg documentation master file, created by
-   sphinx-quickstart on Fri Nov 12 00:26:53 2021.
+.. django_cityloc_pkg_toddpy documentation master file, created by
+   sphinx-quickstart on Fri Nov 12 21:49:12 2021.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to django_cityloc_pkg's documentation!
-==============================================
+Welcome to django_cityloc_pkg_toddpy's documentation!
+=====================================================
 
-.. automodule:: django_cityloc_pkg
-    :members:
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
 
 
 
