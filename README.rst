@@ -12,8 +12,9 @@ Installation
     INSTALLED_APPS = [
         ...
         'citylocations',
+        
     ]
-    
+
 2. Include the citylocations URLconf in your project urls.py like this::
     path('', include('citylocations.urls')),
 
